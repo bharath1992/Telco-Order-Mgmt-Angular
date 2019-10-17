@@ -24,7 +24,7 @@
   * MySQL
   * JWT Token (Session management)
 
-### Web services project can be found in (https://github.com/cyela/Springboot-Web-Services)
+### Web services project can be found in (https://github.com/bharath1992/Telco-Order-Mgmt)
 ## Development server
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
